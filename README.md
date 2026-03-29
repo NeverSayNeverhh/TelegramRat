@@ -12,12 +12,17 @@ pip install pyTelegramBotAPI
 
 sonrasinda ise dosyalari kuaracaz 
 dosyaları kurmak için kodlar ⬇️
+
 cd storage && mkdir telegramrat
+
 sonra telegramrat klasörüne girmemiz gerekiyor
+
 cd telegramrat && mkdir rat.py
-sonra
+
 cd rat.py
+
 nano rat.py
+
 şimdi önünüze bir ekran açılmış olması lazım 
 hicbirseye karismayip termuxu arkaplana alın ve telegrama girin
 telegrama botfather yazin ve addbot kismindan bir bot oluşturun adını vesaire soracak istediğiniz sekilde adını girin sonra o bot fatherdan olusturdugunuz botun tokenini isteyin tokeni notlara kaydedin
