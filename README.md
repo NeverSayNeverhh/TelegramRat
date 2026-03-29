@@ -217,3 +217,4 @@ ctrl var ctrl ye basıp klavyeden o tuşuna bas kaydetmis olursun sonra ctrl ve 
 python rat.py 
 
 15.5 hybdrid aktif yazıyorsa kod çalışmıştır devamında ise telegramdan botunuza girerek botunuza /start komutunu verip kullanabilirsiniz 
+egerkopyalamakta sıkıntı cekiyorsaniz github da code kısmına basıp kopyalayabilirsiniz
